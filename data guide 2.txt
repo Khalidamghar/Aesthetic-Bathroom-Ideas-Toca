@@ -33,70 +33,75 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxavp4.jpg",
+      "title": "Bathroom Ideas Toca 1",
+        "text_Content": "A minimalist design is a great way to create a bathroom that is both functional and aesthetically pleasing. It's all about simplicity and clean lines. You can achieve this look by using neutral colors such as white, black, or gray. Use simple and clean shapes for your fixtures, such as a rectangular sink and a square showerhead. Keep the accessories and decorations to a minimum, and focus on creating an uncluttered space.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxaO2s.jpg",
+      "title": "Bathroom Ideas Toca 2",
+        "text_Content": "Rustic Charm
+If you want to create a cozy and warm atmosphere in your bathroom, consider a rustic design. This can be achieved by using natural materials such as wood, stone, and metal. For example, you can install a wooden vanity with a stone sink, and use metal accents for the fixtures. Add some greenery with plants to create a fresh and natural look.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxakvf.jpg",
+      "title": "Bathroom Ideas Toca 3",
+        "text_Content": "Modern Glam
+A modern glam bathroom design is all about luxury and sophistication. Use high-quality materials such as marble and gold accents to create a high-end look. You can also add some sparkle with crystal lighting fixtures or a chandelier. Use a neutral color palette with bold accents, such as a black and white bathroom with gold accents.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxaSTl.jpg",
+      "title": "Bathroom Ideas Toca 4",
+        "text_Content": "Vintage Charm
+A vintage bathroom design can create a nostalgic and charming atmosphere. You can achieve this look by using vintage-inspired fixtures, such as a clawfoot bathtub or a pedestal sink. Use soft colors such as pastel blue or pink, and add some vintage accessories such as an antique mirror or a vintage rug.Industrial Chic",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxaUj2.jpg",
+      "title": "Bathroom Ideas Toca 5",
+        "text_Content": "An industrial chic bathroom design is all about mixing raw materials with sleek finishes. Use materials such as exposed brick, concrete, and metal to create an urban and edgy look. Use black and white or gray color palette with matte finishes for a modern look. You can also add some warmth with wooden accents.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxaUj2.jpg",
+      "title": "Bathroom Ideas Toca 6",
+        "text_Content": "Industrial Chic
+An industrial chic bathroom design is all about mixing raw materials with sleek finishes. Use materials such as exposed brick, concrete, and metal to create an urban and edgy look. Use black and white or gray color palette with matte finishes for a modern look. You can also add some warmth with wooden accents.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVxaO2s.jpg",
+      "title": "Bathroom Ideas Toca 7",
+        "text_Content": "Artistic Expression
+If you're an artist or art lover, you can incorporate your passion into your bathroom design. You can create a gallery wall with your favorite art pieces, or use a bold wallpaper with an artistic print. Use colorful accents and interesting shapes to create a unique and creative space.",
+        "text_Content_1": ""
 
 
 
